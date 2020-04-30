@@ -3,7 +3,7 @@
 Blog web-app implemented using Django 2 and Python 3. Bootstrap is used for the frontend.
 ----
 
-##Build with
+###Build with
 
    * Django 2.1
    * Python 3
@@ -11,7 +11,9 @@ Blog web-app implemented using Django 2 and Python 3. Bootstrap is used for the 
    * Bootstrap
 ----
 
-##References and Official Docs
+###References and Official Docs
+
+
 [Getting started with Django](https://www.djangoproject.com/start/)
 [Django Documentation](https://docs.djangoproject.com/en/2.1/)
 ----
